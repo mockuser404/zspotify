@@ -72,7 +72,7 @@ Create and run a container from the image:
 
 ~~Currently no user has reported their account getting banned after using ZSpotify.~~
 
-**There have been 2-3 reports from users who received account bans from Spotify for using this tool**.
+<h3>**There have been 2-3 reports from users who received account bans from Spotify for using this tool**.</h3>
 
 We are working on making it less likely for your account to get banned, please be patient.
 
